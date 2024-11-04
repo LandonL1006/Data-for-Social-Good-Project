@@ -15,19 +15,15 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## User Story 
 
-Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [role], <br> 
-> I want to [goal], <br> 
-> so that I can [benefit]. 
+> As an veterinarian, <br> 
+> I want to I want to learn the names of different dog breeds, <br> 
+> so that I can pass my test on identifying dogs and their breed.
 
 ## Dataset 
 
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
+ [Dog_breeds data set](https://www.kaggle.com/datasets/marshuu/dog-breeds/data)
 
-Example: 
-
-Dataset: https://docs.google.com/spreadsheets/d/1WqEsOy5fCjGXDQ6MES_cGcV4PF6v3BSFci8ShuIWDbM/edit?gid=1964198953#gid=1964198953 
 - **Breed** (String) - breed of dog
 - **Longevity (yrs)** (int) - lifespan of the dog in years
 - **Common Health Problems** (double) - Most common health problem for the dog
@@ -36,7 +32,7 @@ Dataset: https://docs.google.com/spreadsheets/d/1WqEsOy5fCjGXDQ6MES_cGcV4PF6v3BS
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
-![UML Diagram for my project]![alt text](image.png)
+![alt text](image.png)
 
 ## Description 
 
