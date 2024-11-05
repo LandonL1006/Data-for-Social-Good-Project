@@ -30,10 +30,12 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 ## UML Diagram 
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
 ![alt text](image.png)
 
 ## Description 
 
-Our project
+Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+
+Our project is about analyzing data about various dog breeds to help my goal as a veterinarian to learn the different breeds and pass my test. It specifically analyzes their breed names, life expectancies, and common health issues. It takes breed information from three files (breeds, lifespan, health problems) and creates Dogs objects for each breed, and stores them in an array. This project allows a user to view all dog data from this data set we found from kaggle.com ([Dog_breeds data set](https://www.kaggle.com/datasets/marshuu/dog-breeds/data)) and enter a specific health issue to find out how many breeds are affected by it, and receive a count of breeds with that issue. The toString method in the UserStory class is used to display all the information about each dog breed, allowing users to quickly see details like the breed's name, life expectancy, and common health issues. This information is stored in a private Dogs[] dog; array, a 1D array that holds Dogs objects, each representing a different breed and its associated data. The Scanner class is used to prompt the user to enter a health issue, which is then read as input and returned. This input is later used to count how many dog breeds share that specific health issue.This project helped my goals because I was able to learn about 117 more dog breeds in addition to their lifespan and common health problems.
+
